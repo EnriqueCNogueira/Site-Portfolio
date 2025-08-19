@@ -361,6 +361,7 @@ footer p:last-child {
     .photo img {
         width: 10rem;
         height: 10rem;
+        transform: none; /* Remove o translateX para centralizar em telas médias */
     }
 }
 
@@ -411,6 +412,7 @@ footer p:last-child {
     .photo img {
         width: 8rem;
         height: 8rem;
+        transform: none; /* Remove o translateX para centralizar no mobile */
     }
     
     .about {
@@ -471,6 +473,7 @@ footer p:last-child {
     .photo img {
         width: 6rem;
         height: 6rem;
+        transform: none; /* Remove o translateX para centralizar no mobile */
     }
     
     .about {
