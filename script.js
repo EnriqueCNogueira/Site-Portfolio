@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', () => {
             strings: [
                 'Portfólio Pessoal',
                 'Graduando em Ciência da Computação',
-                'IA | Machine Learning | Dados | DevOps | Backend',
+                'Dev | FullStack | IA | Machine Learning | Dados',
                 'Apaixonado em Tecnologia'
             ],
             typeSpeed: 50,
@@ -124,3 +124,4 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 });
+
