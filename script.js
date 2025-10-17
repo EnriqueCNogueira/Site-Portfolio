@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', () => {
             strings: [
                 'Portfólio Pessoal',
                 'Graduando em Ciência da Computação',
-                'Software Engineer | FullStack | GenAI | ML | Dados',
+                'Software Engineer | FullStack | GenAI | ML | Data',
                 'Apaixonado em Tecnologia'
             ],
             typeSpeed: 50,
