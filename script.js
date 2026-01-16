@@ -112,7 +112,8 @@ document.addEventListener('DOMContentLoaded', () => {
             strings: [
                 'Portfólio Pessoal',
                 'Graduando em Ciência da Computação',
-                'Software Engineer | FullStack | GenAI | ML | Data',
+                'Estagiário na Buser'
+                'GenAI | AI Agents | PowerBI | SQL',
                 'Apaixonado em Tecnologia'
             ],
             typeSpeed: 50,
@@ -124,4 +125,5 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 });
+
 
