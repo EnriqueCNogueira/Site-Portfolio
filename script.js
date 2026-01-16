@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', () => {
             strings: [
                 'Portfólio Pessoal',
                 'Graduando em Ciência da Computação',
-                'Estagiário na Buser'
+                'Estagiário na Buser',
                 'GenAI | AI Agents | PowerBI | SQL',
                 'Apaixonado em Tecnologia'
             ],
@@ -125,5 +125,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 });
+
 
 
